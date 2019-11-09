@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2ee0eadb355888e35a47e1422f8cbb5a:d77b9fe8cf26cd1e6dad303b31c9d641:5c1d6dc65fcc5b9e054d3a7a8f571fd0$ -->
+<TextureAtlas imagePath="textures8.png">
+    <SubTexture name="Messages/message_delete_everything" x="1382" y="535" width="626" height="508" frameX="-218" frameY="-20" frameWidth="1140" frameHeight="650"/>
+    <SubTexture name="Messages/message_error_access" x="2" y="2" width="688" height="620" frameX="-189" frameY="-21" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_error_appstore" x="2" y="2" width="688" height="620" frameX="-189" frameY="-21" frameWidth="1080" frameHeight="680"/>
+    <SubTexture name="Messages/message_error_internet" x="692" y="2" width="688" height="620" frameX="-189" frameY="-17" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_error_purchase" x="2" y="1045" width="684" height="620" frameX="-191" frameY="-21" frameWidth="1080" frameHeight="680"/>
+    <SubTexture name="Messages/message_error_restart" x="2" y="1045" width="684" height="620" frameX="-191" frameY="-21" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_export" x="1382" y="2" width="658" height="531" frameX="-203" frameY="-8" frameWidth="1080" frameHeight="659"/>
+    <SubTexture name="jot_light_large_1" x="688" y="624" width="458" height="458"/>
+    <SubTexture name="jot_light_large_2" x="1148" y="1045" width="458" height="458"/>
+    <SubTexture name="jot_light_large_3" x="688" y="1084" width="458" height="458"/>
+    <SubTexture name="jot_light_large_4" x="688" y="1544" width="458" height="458"/>
+    <SubTexture name="jot_light_large_5" x="1148" y="1505" width="458" height="458"/>
+</TextureAtlas>

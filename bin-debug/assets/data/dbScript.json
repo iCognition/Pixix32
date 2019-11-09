@@ -1,0 +1,14 @@
+[	
+	{
+		"query": "CREATE TABLE IF NOT EXISTS `mainApp` ( `nId` INTEGER PRIMARY KEY AUTOINCREMENT, `nDomainId` INTEGER, `nTypeId` INTEGER, `sName` TEXT, `sContent` TEXT, `nCountId` INTEGER, `nParentId` INTEGER, `sTarget` TEXT, `sThumbPath` TEXT, `bEnable` INTEGER, `nRegionId` INTEGER, `nPrice` REAL, `sPixieList` TEXT, `sChildTypes` TEXT, `sUid` TEXT, `nSubTrayCount` INTEGER DEFAULT 0);"
+	},
+	{
+		"query": "CREATE TABLE IF NOT EXISTS `userAccount` ( `nId` INTEGER NOT NULL, `sUsername` TEXT NOT NULL, `sPassword` TEXT NOT NULL, PRIMARY KEY(`nId`) );"
+	},
+	{
+		"query": "CREATE TABLE IF NOT EXISTS `userProfile` ( `nUserAccId` INTEGER NOT NULL, `sFname` TEXT, `sLname` TEXT, `sMname` TEXT, `sEmail` TEXT, `sDeviceId` TEXT,  `sProductId` TEXT,   `sProductIndex` INTEGER, FOREIGN KEY(`nUserAccId`) REFERENCES `userAccount`(`nId`));"
+	},
+	{
+		"query": "CREATE TABLE IF NOT EXISTS `pixCount` ( `nId` INTEGER PRIMARY KEY AUTOINCREMENT, `nPixCount` DEFAULT 0);"
+	}
+]

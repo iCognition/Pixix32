@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c264a5e56faa9389b724bf421763cae9:c97b50ba1d38cd0d90612d94e28b6a48:d37bf9c60f2741f35d765590b9b23544$ -->
+<TextureAtlas imagePath="animatedTextures0.png">
+    <SubTexture name="Sparkle" x="2" y="1140" width="626" height="626"/>
+    <SubTexture name="eyeball_large" x="962" y="1505" width="514" height="514"/>
+    <SubTexture name="ic_logo" x="962" y="1140" width="1064" height="363"/>
+    <SubTexture name="logo_eyeball" x="1969" y="1505" width="43" height="43" frameX="0" frameY="0" frameWidth="45" frameHeight="45"/>
+    <SubTexture name="logo_ibeam" x="259" y="1768" width="148" height="264"/>
+    <SubTexture name="logo_pix" x="1478" y="1505" width="489" height="354"/>
+    <SubTexture name="logo_x" x="2" y="1768" width="255" height="277"/>
+    <SubTexture name="rulette" x="2" y="2" width="1124" height="1136"/>
+    <SubTexture name="slogan_1" x="1128" y="2" width="370" height="119"/>
+    <SubTexture name="slogan_2" x="409" y="1893" width="513" height="122"/>
+    <SubTexture name="slogan_3" x="1478" y="1861" width="429" height="120"/>
+    <SubTexture name="slogan_4" x="409" y="1768" width="551" height="123"/>
+    <SubTexture name="sparkle_small" x="924" y="1893" width="31" height="31"/>
+</TextureAtlas>

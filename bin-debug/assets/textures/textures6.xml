@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2ee0eadb355888e35a47e1422f8cbb5a:d77b9fe8cf26cd1e6dad303b31c9d641:5c1d6dc65fcc5b9e054d3a7a8f571fd0$ -->
+<TextureAtlas imagePath="textures6.png">
+    <SubTexture name="Help/add_tray" x="2" y="2" width="708" height="761" frameX="-20" frameY="-14" frameWidth="750" frameHeight="793"/>
+    <SubTexture name="Messages/message_close" x="2" y="1463" width="514" height="582" frameX="-287" frameY="-17" frameWidth="1080" frameHeight="660"/>
+    <SubTexture name="Messages/message_delete_jots" x="734" y="951" width="460" height="508" frameX="-309" frameY="-20" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_kill_all" x="2" y="765" width="730" height="696" frameX="-168" frameY="-10" frameWidth="1080" frameHeight="760"/>
+    <SubTexture name="Messages/message_patience" x="1238" y="2" width="726" height="444" frameX="-218" frameY="-9" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_upgraded_hepta" x="1238" y="448" width="718" height="542" frameX="-173" frameY="-10" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_upgraded_infi" x="518" y="1463" width="718" height="543" frameX="-173" frameY="-9" frameWidth="1080" frameHeight="659"/>
+    <SubTexture name="Messages/message_upgraded_penta" x="1238" y="1452" width="718" height="542" frameX="-173" frameY="-9" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="jot_light_large_9" x="1196" y="992" width="458" height="458"/>
+    <SubTexture name="tray_3" x="734" y="2" width="496" height="71"/>
+    <SubTexture name="tray_4" x="734" y="75" width="496" height="71"/>
+    <SubTexture name="tray_5" x="734" y="148" width="496" height="71"/>
+    <SubTexture name="tray_6" x="734" y="221" width="496" height="71"/>
+    <SubTexture name="tray_7" x="734" y="294" width="496" height="71"/>
+    <SubTexture name="tray_8" x="734" y="367" width="496" height="71"/>
+    <SubTexture name="tray_9" x="734" y="440" width="496" height="71"/>
+    <SubTexture name="tray_light_0" x="734" y="513" width="496" height="71"/>
+    <SubTexture name="tray_light_1" x="734" y="586" width="496" height="71"/>
+    <SubTexture name="tray_light_2" x="734" y="659" width="496" height="71"/>
+    <SubTexture name="tray_light_3" x="734" y="732" width="496" height="71"/>
+    <SubTexture name="tray_light_4" x="734" y="805" width="496" height="71"/>
+    <SubTexture name="tray_light_5" x="734" y="878" width="496" height="71"/>
+</TextureAtlas>

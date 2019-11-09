@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2ee0eadb355888e35a47e1422f8cbb5a:d77b9fe8cf26cd1e6dad303b31c9d641:5c1d6dc65fcc5b9e054d3a7a8f571fd0$ -->
+<TextureAtlas imagePath="textures4.png">
+    <SubTexture name="Help/active_tray" x="2" y="1094" width="708" height="840" frameX="-20" frameY="-30" frameWidth="750" frameHeight="870"/>
+    <SubTexture name="Help/camera" x="2" y="2" width="708" height="1090" frameX="-20" frameY="0" frameWidth="750" frameHeight="1116"/>
+    <SubTexture name="Help/tag" x="758" y="1619" width="708" height="420" frameX="-20" frameY="-14" frameWidth="750" frameHeight="472"/>
+    <SubTexture name="Messages/message_delete_pix" x="1468" y="1477" width="462" height="508" frameX="-308" frameY="-17" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="Messages/message_max_jots" x="1425" y="813" width="588" height="662" frameX="-252" frameY="-18" frameWidth="1080" frameHeight="680"/>
+    <SubTexture name="button_active" x="2" y="1936" width="376" height="110" frameX="-3" frameY="0" frameWidth="380" frameHeight="110"/>
+    <SubTexture name="button_passive" x="380" y="1936" width="376" height="110" frameX="-3" frameY="0" frameWidth="380" frameHeight="110"/>
+    <SubTexture name="buy_jots" x="712" y="813" width="711" height="804"/>
+    <SubTexture name="buy_passive" x="758" y="705" width="928" height="106" frameX="-38" frameY="0" frameWidth="1000" frameHeight="106"/>
+    <SubTexture name="buy_tally" x="758" y="2" width="939" height="701"/>
+</TextureAtlas>

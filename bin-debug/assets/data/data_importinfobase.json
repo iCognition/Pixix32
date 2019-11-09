@@ -1,0 +1,24 @@
+{
+   "head_infobase":{
+      "type":"image",
+      "y":0.040996093750000004,
+      "texturename":"head_infobase",
+      "width":0.9166666666666666,
+      "distx":0.004166666666666667,
+      "height":0.10416666666666667,
+      "disty":-0.45900390625,
+      "index":1,
+      "x":0.5041666666666667
+   },
+   "background_app":{
+      "type":"image",
+      "y":0,
+      "texturename":"background_app",
+      "width":1,
+      "distx":-0.5,
+      "height":1.7777777777777777,
+      "disty":-0.5,
+      "index":0,
+      "x":0
+   }
+}

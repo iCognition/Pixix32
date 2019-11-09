@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2ee0eadb355888e35a47e1422f8cbb5a:d77b9fe8cf26cd1e6dad303b31c9d641:5c1d6dc65fcc5b9e054d3a7a8f571fd0$ -->
+<TextureAtlas imagePath="textures9.png">
+    <SubTexture name="jot_light_large_0" x="2" y="2" width="458" height="458"/>
+</TextureAtlas>

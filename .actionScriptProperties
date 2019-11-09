@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actionScriptProperties analytics="false" mainApplicationPath="Pixix.as" projectUUID="e1078474-a537-40b4-abc9-991a702195ef" version="11">
+  <compiler additionalCompilerArguments="-locale en_US" advancedTelemetry="false" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="false" htmlHistoryManagement="false" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="true" useDebugRSLSwfs="true" useFlashSDK="true" verifyDigests="true" warn="true">
+    <compilerSourcePath>
+      <compilerSourcePathEntry kind="1" linkType="1" path="C:/Flashbuilder_Workspace/Pixio/libs/easyworkers/src"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="C:/Flashbuilder_Workspace/Pixio/libs/signals/src"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="C:/Flashbuilder_Workspace/Pixio/common/framework"/>
+      <compilerSourcePathEntry kind="1" linkType="1" path="C:/Flashbuilder_Workspace/Pixio/src"/>
+    </compilerSourcePath>
+    <libraryPath defaultLinkType="0">
+      <libraryPathEntry kind="4" path="">
+        <excludedEntries>
+          <libraryPathEntry kind="1" linkType="1" path="${PROJECT_FRAMEWORKS}/locale/{locale}"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/advancedgrids.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_air.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/charts.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/netmon.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/spark.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/sparkskins.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/rpc.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/qtp_air.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/videoPlayer.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/flash-integration.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/authoringsupport.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/qtp.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/framework.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/air/airspark.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/mx/mx.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/air/applicationupdater.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/utilities.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/datavisualization.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/spark_dmv.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_dmv.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_flashflexkit.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/air/applicationupdater_ui.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/air/airframework.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/mobile/mobilecomponents.swc" useDefaultLinkType="false"/>
+          <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_agent.swc" useDefaultLinkType="false"/>
+        </excludedEntries>
+      </libraryPathEntry>
+      <libraryPathEntry kind="1" linkType="1" path="C:/Flashbuilder_Workspace/Pixio/libs/swc"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/com.milkmangames.extensions.GoViral.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/com.milkmangames.extensions.RateBox.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.Core.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.FacebookAPI.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.InAppBilling.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.Notifications.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/googleservices/com.distriqt.playservices.Auth.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/googleservices/com.distriqt.playservices.Base.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.AppCompatV7.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.CardViewV7.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.CustomTabs.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.Design.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.InstallReferrer.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.RecyclerViewV7.ane"/>
+      <libraryPathEntry kind="5" linkType="2" path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.V4.ane"/>
+    </libraryPath>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications>
+    <application path="Pixix.as">
+      <airExcludes/>
+    </application>
+  </applications>
+  <modules/>
+  <workers/>
+  <buildCSSFiles/>
+  <flashCatalyst validateFlashCatalystCompatibility="false"/>
+  <buildTargets>
+    <buildTarget airDownloadURL="" androidSettingsVersion="2" buildTargetName="device" isCurrent="true" platformId="com.adobe.flexide.multiplatform.android.platform">
+      <multiPlatformSettings enabled="true" hideAneLibSymbols="0" includePlatformLibs="false" platformID="com.adobe.flexide.multiplatform.android.platform" reducedSizePackaging="false" version="1"/>
+      <airSettings airCertificatePath="C:/Flashbuilder_Workspace/Pixio/keys/pixix32_key.p12" airTimestamp="true" anePathSet="true" version="1">
+        <airExcludes/>
+        <anePaths>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/com.milkmangames.extensions.GoViral.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/com.milkmangames.extensions.RateBox.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.Core.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.InAppBilling.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/com.distriqt.Notifications.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/googleservices/com.distriqt.playservices.Base.ane"/>
+          <anePathEntry path="C:/Flashbuilder_Workspace/Pixio/libs/anes/distriqt/androidsupport/com.distriqt.androidsupport.V4.ane"/>
+        </anePaths>
+        <newPackagingParams>
+          <Parameter location="placeBefore" name="-arch" placeBefore="-provisioning-profile" value="armv7"/>
+        </newPackagingParams>
+        <modifiedPackagingParams/>
+      </airSettings>
+      <actionScriptSettings version="1"/>
+    </buildTarget>
+    <buildTarget buildTargetName="default" isCurrent="true" platformId="default">
+      <multiPlatformSettings enabled="false" hideAneLibSymbols="0" includePlatformLibs="false" platformID="default" reducedSizePackaging="false" version="1"/>
+      <airSettings airCertificatePath="" airTimestamp="true" anePathSet="false" version="1">
+        <airExcludes/>
+        <anePaths/>
+      </airSettings>
+      <actionScriptSettings version="1"/>
+    </buildTarget>
+  </buildTargets>
+</actionScriptProperties>

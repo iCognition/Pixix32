@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2ee0eadb355888e35a47e1422f8cbb5a:d77b9fe8cf26cd1e6dad303b31c9d641:5c1d6dc65fcc5b9e054d3a7a8f571fd0$ -->
+<TextureAtlas imagePath="textures1.png">
+    <SubTexture name="Help/disable_help_x" x="1706" y="1558" width="319" height="82" frameX="-10" frameY="-2" frameWidth="341" frameHeight="90"/>
+    <SubTexture name="Messages/message_import_infobase" x="1058" y="1558" width="646" height="486" frameX="-210" frameY="-18" frameWidth="1080" frameHeight="650"/>
+    <SubTexture name="about_pixix" x="2" y="2" width="1054" height="1836" frameX="-12" frameY="-29" frameWidth="1080" frameHeight="1920"/>
+    <SubTexture name="buy_genix_head" x="1058" y="2" width="943" height="564"/>
+    <SubTexture name="jot_light_8" x="2" y="1990" width="870" height="50"/>
+    <SubTexture name="jot_light_9" x="152" y="1924" width="870" height="50"/>
+    <SubTexture name="profile_input_long" x="152" y="1840" width="878" height="82"/>
+    <SubTexture name="rulette_overlay" x="1058" y="568" width="940" height="988"/>
+    <SubTexture name="rulette_placement" x="1706" y="1642" width="302" height="317"/>
+    <SubTexture name="rulette_tiny" x="2" y="1840" width="148" height="148"/>
+</TextureAtlas>
